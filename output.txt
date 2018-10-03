@@ -1,0 +1,48 @@
+
+
+The number of length 1-Sequential patterns is  7
+  Pattern :<{80}> count: 3
+  Pattern :<{50}> count: 3
+  Pattern :<{20}> count: 3
+  Pattern :<{70}> count: 3
+  Pattern :<{40}> count: 3
+  Pattern :<{10}> count: 3
+  Pattern :<{30}> count: 3
+
+
+The number of length 2-Sequential patterns is  16
+  Pattern :<{30,70}> count: 3
+  Pattern :<{30}{70}> count: 3
+  Pattern :<{20}{80}> count: 2
+  Pattern :<{70}{70}> count: 2
+  Pattern :<{30,80}> count: 2
+  Pattern :<{30}{80}> count: 2
+  Pattern :<{40}{40}> count: 3
+  Pattern :<{10,40}> count: 3
+  Pattern :<{10}{40}> count: 3
+  Pattern :<{20,30}> count: 3
+  Pattern :<{20}{30}> count: 2
+  Pattern :<{70,80}> count: 3
+  Pattern :<{80}{70}> count: 2
+  Pattern :<{20,70}> count: 2
+  Pattern :<{20}{70}> count: 3
+  Pattern :<{30}{30}> count: 2
+
+
+The number of length 3-Sequential patterns is  11
+  Pattern :<{20,30}{30}> count: 2
+  Pattern :<{20,30}{80}> count: 2
+  Pattern :<{30}{30,70}> count: 2
+  Pattern :<{30,70,80}> count: 2
+  Pattern :<{30}{70,80}> count: 2
+  Pattern :<{20,30,70}> count: 2
+  Pattern :<{20,30}{70}> count: 3
+  Pattern :<{20}{30,70}> count: 2
+  Pattern :<{10,40}{40}> count: 3
+  Pattern :<{20}{70,80}> count: 2
+  Pattern :<{70,80}{70}> count: 2
+
+
+The number of length 4-Sequential patterns is  2
+  Pattern :<{20,30}{30,70}> count: 2
+  Pattern :<{20,30}{70,80}> count: 2
